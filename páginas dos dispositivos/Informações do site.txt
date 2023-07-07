@@ -1,0 +1,39 @@
+> Cor predominante: #ff6b81
+> Você deverá garantir que o site tenha uma experiência do usuário adequada de forma que os 
+botões e demais elementos que julgar necessário tenham, no mínimo, um "hover".
+
+**** HEADER ****
+> Um Poderoso APP Para Seu Negócio.
+> De código aberto a serviços profissionais, nosso sistema ajuda você a criar, implantar, testar e monitorar aplicativos.
+
+**** MAIN ****
+> Sua Experiência Fica Cada Vez Melhor Com O Tempo.
+> Inovação contínua e soluções avançadas em tecnologia da informação, impulsionando sua jornada digital para o sucesso.
+
+**** BLOCOS ****
+1.
+Título:  Implantar Sistemas
+Conteúdo: Fazemos da tecnologia nossa aliada, implantando sistemas com excelência e impulsionando o sucesso de seu negócio.
+
+2.
+Título:  Certificados SSL
+Conteúdo: Proteção digital em primeiro lugar: oferecemos Certificados SSL para garantir a segurança e a confiabilidade de sua presença online.
+
+3.
+Título:  Consultas Simplificadas
+Conteúdo: Descubra o poder das consultas simplificadas: uma abordagem tecnológica que simplifica o acesso e análise de dados, tornando a tomada de decisão mais rápida e eficiente.
+
+4.
+Título:  Segurança avançada
+Conteúdo: Garanta a tranquilidade em seu ambiente digital: conte com nossa tecnologia de segurança avançada para proteger seus dados e informações com o mais alto nível de proteção
+
+5.
+Título:  Poderoso API
+Conteúdo: Desbloqueie todo o potencial de sua aplicação com nossa API poderosa, permitindo a integração perfeita com outros sistemas e oferecendo uma experiência única aos usuários
+
+6.
+Título:  Backups de Banco de Dados
+Conteúdo: Proteja seus dados com confiança: nossos backups oferecem uma solução robusta e eficiente para garantir a segurança das informações essenciais para o seu negócio.
+
+**** FOOTER****
+Garantido por desenvolvedores de mais de 80 países

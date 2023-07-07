@@ -1,0 +1,66 @@
+
+/* RESET */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #ff6b81;
+    grid-template-columns: 100%;
+    grid-template-areas: 'header'
+                         'main'
+                         'footer';
+    color: #fff;
+}
+/* HEADER */
+
+header{
+    grid-area: header;
+    margin: 10px 80px;
+}
+nav figure{
+    display: flex;
+    align-items: center;
+}
+.logo{
+    height: 50px;
+    width: 50px;
+    margin-right: 20px;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+section
+
+button{
+    height: 30px;
+}
+header article{
+    display: flex;
+    flex-direction: column;
+}
+article h1{
+    font-size: 30px;
+}
+article p{
+    font-size: 15px;
+    text-align: justify;
+}
+.app-store,
+.google-play{
+    height: 30px;
+    width: 100px;
+}
+.phone{
+    height: 500px;
+}
+
+/* MAIN */
+
+
+/* FOOTER */
