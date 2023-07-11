@@ -120,11 +120,17 @@ div button{
 /* MAIN */
 main{
     grid-area: main;
-    height: 80%;
+    height: 70%;
     background-color: var(--cor-secundaria);
     color: var(--cor-escura);
 }
 
+main article{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
 main article h2{
     color: var(--cor-principal);
     font-size: 15px;
@@ -132,27 +138,20 @@ main article h2{
     margin-top: 30px;
 }
 main article h1{
-    border: 1px solid red;
     margin: 30px;
-    display: inline-block;
-    padding-left: px;
-    padding-right: px;
-    text-align: center;    
+    display: flex;
+    text-align: center;
 }
 main article p{
     margin-top: 20px;
+    display: flex;
     text-align: center;
-    display: inline-block;
     padding-left: 10px;
     padding-right: 10px;
     text-align: center;
     color: var(--cor-cinza);
 }
-main article{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
+
 .lista{
     margin-left: 20%;
     margin-right: 20%;
@@ -196,7 +195,7 @@ span{
 footer{
     grid-area: footer;
     background-color: var(--cor-principal);
-    height: 40vh;
+    height: 30vh;
     color: var(--cor-secundaria);
     padding: 50px;
 }
@@ -245,7 +244,10 @@ div ul li{
         text-align: center;
     }
     main{
-        height: 80vh;
+        height: 90vh;
+    }
+    .cards{
+        width: 250px;
     }
 }
 
@@ -278,7 +280,7 @@ div ul li{
         width: 200px;
     }
     main{
-        height: 160vh;
+        height: 170vh;
     }
     footer{
         padding: 50px;
