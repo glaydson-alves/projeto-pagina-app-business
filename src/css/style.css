@@ -257,14 +257,21 @@ div ul li{
     }
 }
 
-/* RESPONIVO CELULAR */
-@media screen and (max-width: 767px) {
+/* modo smartphone */
+
+@media screen and (max-width: 750px) {
     body{
     grid-template-columns: 100%;
     grid-template-areas: 'header'
                          'main'
                          'footer';
     }
+
+    header{
+        margin: 5px 10px;
+
+    }
+
     header .button{
         display: none;
     }
@@ -286,23 +293,71 @@ div ul li{
         width: 200px;
     }
     main{
-        height: 170vh;
+        height: 201vh;
     }
+    main article h1{
+        margin-bottom: 5px;
+    }
+
     footer{
         padding: 50px;
+
     }
     footer h3{
         display: flex;
         flex-direction: column;
         text-align: center;
+        font-size: 25px;
     }
     small{
         font-size: 10px;
         font-weight: bolder;
+        font-size: 20px;
     }
     div ul {
         display: flex;
         flex-direction: column;
+        
     }
+     footer span  {font-size: 30px;}
+     .cards{ 
+        width: 450px;
+        height: 225px;
+     }
+
+    article {
+        margin: 10px;
+    }
+    
+    .cards span{ font-size: 20px;}
+    .cards p{font-size: 13px;}
+      
+      
+    main article h1{
+        padding-left: 25px;
+        padding-right: 25px;
+        font-size: 23px;
+        margin-bottom: 20px;   
+    }
+    main article p{
+        padding-left: 25px;
+        padding-right: 25px;
+        margin-bottom: 50px;
+        font-size: 15px;
+    }
+    article h1{
+        font-size: 25px;
+        margin-bottom: 20px;
+     
+    }
+    article p{
+        font-size: 16px;
+    }
+
+    nav{
+        padding: 0;
+        margin-bottom: 27px;
+    }
+   
 
 }
