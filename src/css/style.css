@@ -11,10 +11,10 @@
 
 /* VARIAVÉIS */
 :root {
-    --cor-principal:#00C2B5;
+    --cor-principal:#ff6b81;
     --cor-secundaria:#fff;
     --cor-escura:#000;
-    --cor-cinza:#888;
+    --cor-cinza:#808080;
 }
 
 body{
